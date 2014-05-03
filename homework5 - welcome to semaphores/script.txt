@@ -1,0 +1,109 @@
+Thread 140407849035520 produced 83 on count 5. Buffer size=28
+Thread 140407857428224 produced 86 on count 5. Buffer size=28
+Thread 140407865820928 produced 77 on count 5. Buffer size=28
+Thread 140407874213632 produced 15 on count 5. Buffer size=28
+Thread 140407882606336 produced 93 on count 5. Buffer size=28
+what is going on 0
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 0
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 93 consumed on count 3
+what is going on 1
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 0
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 0 consumed on count 3
+what is going on 2
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 0
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 0 consumed on count 3
+Thread 140407849035520 produced 35 on count 5. Buffer size=28
+Thread 140407865820928 produced 86 on count 5. Buffer size=28
+Thread 140407874213632 produced 92 on count 5. Buffer size=28
+Thread 140407882606336 produced 49 on count 5. Buffer size=28
+what is going on 3
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+what is going on 4
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 0 consumed on count 3
+Thread 140407857428224 produced 21 on count 5. Buffer size=28
+what is going on 5
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 0
+BUFFER[4] = 0
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 21 consumed on count 3
+Num 0 consumed on count 3
+Thread 140407865820928 produced 62 on count 5. Buffer size=28
+Thread 140407849035520 produced 27 on count 5. Buffer size=28
+Thread 140407874213632 produced 90 on count 5. Buffer size=28
+what is going on 6
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 59
+BUFFER[4] = 63
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 0 consumed on count 3
+what is going on 0
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 59
+BUFFER[4] = 63
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 93 consumed on count 3
+what is going on 1
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0
+BUFFER[3] = 59
+BUFFER[4] = 63
+BUFFER[5] = 21
+BUFFER[6] = 0
+after consumer accesses buffer
+Num 0 consumed on count 3
+Thread 140407882606336 produced 59 on count 5. Buffer size=28
+Thread 140407857428224 produced 63 on count 5. Buffer size=28
+what is going on 2
+BUFFER[0] = 93
+BUFFER[1] = 0
+BUFFER[2] = 0

@@ -1,0 +1,10 @@
+Script started on Fri Apr 12 19:29:49 2013
+[01;32mcsc415@csc415[01;34m ~/shared/homework5 $[00m ./hw5nosync
+Main Program beginning
+Hello I'm thread #139743458805504(1): local x=0
+	 Finishing thread #139743458805504(1): local x after addition=10
+^C
+[01;32mcsc415@csc415[01;34m ~/shared/homework5 $[00m exit
+exit
+
+Script done on Fri Apr 12 19:30:11 2013

@@ -1,0 +1,119 @@
+Script started on Fri May 17 18:38:14 2013
+[01;32mcsc415@csc415[01;34m ~/shared/hw8 $[00m ./a.out 6
+startArray populated
+Sequentially sorting array
+Total Time spent for sequential sort was: 0.00000000000000000000000000
+
+P = 64, N = 1
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 64, N = 2
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 64, N = 4
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 64, N = 8
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 64, N = 16
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+Main program done, printing final minium values
+
+ Program exiting
+[01;32mcsc415@csc415[01;34m ~/shared/hw8 $[00m ./a.out 6 10
+startArray populated
+Sequentially sorting array
+Total Time spent for sequential sort was: 0.00000000000000000000000000
+
+P = 1024, N = 1
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.01000000000000000020816682
+
+P = 1024, N = 2
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 1024, N = 4
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 1024, N = 8
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+P = 1024, N = 16
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.00000000000000000000000000
+
+Main program done, printing final minium values
+
+ Program exiting
+[01;32mcsc415@csc415[01;34m ~/shared/hw8 $[00m ./a.out 10 6
+startArray populated
+Sequentially sorting array
+Total Time spent for sequential sort was: 9.19999999999999928945726424
+
+P = 65536, N = 1
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 9.25000000000000000000000000
+
+P = 65536, N = 2
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 4.82000000000000028421709430
+
+P = 65536, N = 4
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 2.49000000000000021316282073
+
+P = 65536, N = 8
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 1.15999999999999992006394223
+
+P = 65536, N = 16
+Populating arrays
+Begin thread creation
+Threads done working
+Total Time spent with concurent sort was: 0.61999999999999999555910790
+
+Main program done, printing final minium values
+
+ Program exiting
+[01;32mcsc415@csc415[01;34m ~/shared/hw8 $[00m exit
+exit
+
+Script done on Fri May 17 18:40:07 2013

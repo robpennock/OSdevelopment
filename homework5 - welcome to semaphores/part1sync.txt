@@ -1,0 +1,22 @@
+Main Program beginning
+Hello I'm thread #140180823262976(1): local x=0
+	 Finishing thread #140180823262976(1): local x after addition=10
+Hello I'm thread #140180814870272(2): local x=10
+	 Finishing thread #140180814870272(2): local x after addition=20
+Hello I'm thread #140180806477568(3): local x=20
+	 Finishing thread #140180806477568(3): local x after addition=30
+Hello I'm thread #140180798084864(4): local x=30
+	 Finishing thread #140180798084864(4): local x after addition=40
+Hello I'm thread #140180831655680(5): local x=40
+	 Finishing thread #140180831655680(5): local x after addition=50
+Hello I'm thread #140180840048384(6): local x=50
+	 Finishing thread #140180840048384(6): local x after addition=60
+Hello I'm thread #140180848441088(7): local x=60
+	 Finishing thread #140180848441088(7): local x after addition=70
+Hello I'm thread #140180856833792(8): local x=70
+	 Finishing thread #140180856833792(8): local x after addition=80
+Hello I'm thread #140180865226496(9): local x=80
+	 Finishing thread #140180865226496(9): local x after addition=90
+Hello I'm thread #140180873619200(10): local x=90
+	 Finishing thread #140180873619200(10): local x after addition=100
+Global x=100

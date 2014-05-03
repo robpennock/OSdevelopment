@@ -1,0 +1,89 @@
+Script started on Fri May 17 18:51:42 2013
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m ./a, .out 6
+
+Main Program beginning!
+
+Sequential Execution sorted the array CORRECTLY
+Sequential Execution Time: 0.000012012 seconds
+
+2^P = 64, 2^N = 1
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 1 threads: 0.000353955 seconds
+
+2^P = 64, 2^N = 2
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 2 threads: 0.000456483 seconds
+
+2^P = 64, 2^N = 4
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 4 threads: 0.001511646 seconds
+
+2^P = 64, 2^N = 8
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 8 threads: 0.001708319 seconds
+
+2^P = 64, 2^N = 16
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 16 threads: 0.004563992 seconds
+
+Main Program finishing!
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m ./a.out 6 12
+
+Main Program beginning!
+
+Sequential Execution sorted the array CORRECTLY
+Sequential Execution Time: 0.053889015 seconds
+
+2^P = 4096, 2^N = 1
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 1 threads: 0.051369417 seconds
+
+2^P = 4096, 2^N = 2
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 2 threads: 0.015161434 seconds
+
+2^P = 4096, 2^N = 4
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 4 threads: 0.007210420 seconds
+
+2^P = 4096, 2^N = 8
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 8 threads: 0.005146469 seconds
+
+2^P = 4096, 2^N = 16
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 16 threads: 0.005208209 seconds
+
+Main Program finishing!
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m ./a.out 12 6
+
+Main Program beginning!
+
+Sequential Execution sorted the array CORRECTLY
+Sequential Execution Time: 9.687492291 seconds
+
+2^P = 65536, 2^N = 1
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 1 threads: 10.032802913 seconds
+
+2^P = 65536, 2^N = 2
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 2 threads: 3.358629777 seconds
+
+2^P = 65536, 2^N = 4
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 4 threads: 0.891972013 seconds
+
+2^P = 65536, 2^N = 8
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 8 threads: 0.449587450 seconds
+
+2^P = 65536, 2^N = 16
+Concurrent Execution sorted the array CORRECTLY
+Concurrent Execution Time with 16 threads: 0.243367476 seconds
+
+Main Program finishing!
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m exit
+exit
+
+Script done on Fri May 17 18:52:29 2013

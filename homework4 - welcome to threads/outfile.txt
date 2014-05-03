@@ -1,0 +1,30 @@
+Script started on Tue Mar 19 12:57:49 2013
+[01;32mcsc415@csc415[01;34m ~/shared/homework4 $[00m make
+make: `homework4' is up to date.
+[01;32mcsc415@csc415[01;34m ~/shared/homework4 $[00m ./homework4
+Main Program beginning
+Hello I'm thread #140621483218688(1): local x=0
+	 Finishing thread #140621483218688(1): local x after addition=10
+Hello I'm thread #140621474825984(2): local x=0
+	 Finishing thread #140621474825984(2): local x after addition=10
+Hello I'm thread #140621516789504(4): local x=0
+	 Finishing thread #140621516789504(4): local x after addition=10
+Hello I'm thread #140621525182208(5): local x=0
+	 Finishing thread #140621525182208(5): local x after addition=10
+Hello I'm thread #140621466433280(6): local x=0
+	 Finishing thread #140621466433280(6): local x after addition=10
+Hello I'm thread #140621500004096(3): local x=0
+Hello I'm thread #140621491611392(7): local x=0
+	 Finishing thread #140621491611392(7): local x after addition=10
+Hello I'm thread #140621508396800(8): local x=0
+	 Finishing thread #140621508396800(8): local x after addition=10
+	 Finishing thread #140621500004096(3): local x after addition=10
+Hello I'm thread #140621458040576(9): local x=0
+	 Finishing thread #140621458040576(9): local x after addition=10
+Hello I'm thread #140621449647872(10): local x=0
+	 Finishing thread #140621449647872(10): local x after addition=10
+Global x=10
+[01;32mcsc415@csc415[01;34m ~/shared/homework4 $[00m exit
+exit
+
+Script done on Tue Mar 19 12:58:17 2013

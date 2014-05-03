@@ -1,0 +1,9 @@
+Script started on Fri May 17 18:50:47 2013
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m ./Linux_hw8 6
+bash: ./Linux_hw8: No such file or directory
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m ls
+[0m[01;32mLinux_hw8.c[0m  [01;32ma.out[0m  [01;32mbryceLinux.txt[0m  [01;32mhw7bryce[0m  [01;32mhw8[0m  [01;32mhw8.c[0m  [01;32mmakefile[0m  [01;32mrobquadout[0m
+[01;32mcsc415@csc415[01;34m ~/shared/homework8 $[00m exit
+exit
+
+Script done on Fri May 17 18:51:21 2013
